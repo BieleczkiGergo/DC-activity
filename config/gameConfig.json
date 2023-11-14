@@ -1,0 +1,11 @@
+{
+  "modes" : {
+    "ping" : true,
+    "emoji" : true,
+    "onechar" : true
+
+  },
+  //timeout in seconds,
+  "timeout" : 10
+
+}
